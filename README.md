@@ -1,6 +1,6 @@
 Sortable GridView Widget for Yii2
 ========================
-Sortable modification of standard Yii2 GridView widget.
+Sortable modification of Kartik GridView widget.
 
 [![Packagist](https://img.shields.io/packagist/dt/himiklab/yii2-sortable-grid-view-widget.svg)]() [![Packagist](https://img.shields.io/packagist/v/himiklab/yii2-sortable-grid-view-widget.svg)]()  [![license](https://img.shields.io/badge/License-MIT-yellow.svg)]()
 
@@ -11,13 +11,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 * Either run
 
 ```
-php composer.phar require --prefer-dist "himiklab/yii2-sortable-grid-view-widget" "*"
+php composer.phar require --prefer-dist "naduvko/yii2-sortable-grid-view-widget" "*"
 ```
 
 or add
 
 ```json
-"himiklab/yii2-sortable-grid-view-widget" : "*"
+"naduvko/yii2-sortable-grid-view-widget" : "*"
 ```
 
 to the `require` section of your application's `composer.json` file.
