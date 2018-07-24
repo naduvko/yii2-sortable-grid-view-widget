@@ -2,7 +2,7 @@ Sortable GridView Widget for Yii2
 ========================
 Sortable modification of Kartik GridView widget.
 
-[![Packagist](https://img.shields.io/packagist/dt/naduvko/yii2-sortable-grid-view-widget.svg)]() [![Packagist](https://img.shields.io/packagist/v/naduvko/yii2-sortable-grid-view-widget.svg)]()  [![license](https://img.shields.io/badge/License-MIT-yellow.svg)]()
+[![Packagist](https://img.shields.io/packagist/dt/naduvko/yii2-sortable-grid-view-widget.svg)] [![Packagist](https://img.shields.io/packagist/v/naduvko/yii2-sortable-grid-view-widget.svg)] [![license](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
 Installation
 ------------
