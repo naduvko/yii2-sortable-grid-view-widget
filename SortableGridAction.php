@@ -1,11 +1,11 @@
 <?php
 /**
- * @link https://github.com/himiklab/yii2-sortable-grid-view-widget
+ * @link https://github.com/naduvko/yii2-sortable-grid-view-widget
  * @copyright Copyright (c) 2014-2017 HimikLab
  * @license http://opensource.org/licenses/MIT MIT
  */
 
-namespace himiklab\sortablegrid;
+namespace naduvko\sortablegrid;
 
 use Yii;
 use yii\base\Action;
@@ -30,8 +30,8 @@ use yii\web\BadRequestHttpException;
  * }
  * ```
  *
- * @author HimikLab
- * @package himiklab\sortablegrid
+ * @author naduvko
+ * @package naduvko\sortablegrid
  */
 class SortableGridAction extends Action
 {
