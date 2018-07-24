@@ -2,7 +2,9 @@ Sortable GridView Widget for Yii2
 ========================
 Sortable modification of Kartik GridView widget.
 
-![Packagist](https://img.shields.io/packagist/dt/naduvko/yii2-sortable-grid-view-widget.svg) ![Packagist](https://img.shields.io/packagist/v/naduvko/yii2-sortable-grid-view-widget.svg) ![license](https://img.shields.io/badge/License-MIT-yellow.svg)
+[![Total Downloads](https://poser.pugx.org/naduvko/yii2-sortable-grid-view-widget/downloads)](https://packagist.org/packages/naduvko/yii2-sortable-grid-view-widget)
+[![Latest Stable Version](https://poser.pugx.org/naduvko/yii2-sortable-grid-view-widget/v/stable)](https://packagist.org/packages/naduvko/yii2-sortable-grid-view-widget)
+[![License](https://poser.pugx.org/naduvko/yii2-sortable-grid-view-widget/license)](https://packagist.org/packages/naduvko/yii2-sortable-grid-view-widget)
 
 Installation
 ------------
@@ -27,7 +29,7 @@ to the `require` section of your application's `composer.json` file.
 * Add new behavior in the AR model, for example:
 
 ```php
-use himiklab\sortablegrid\SortableGridBehavior;
+use naduvko\sortablegrid\SortableGridBehavior;
 
 public function behaviors()
 {
@@ -43,7 +45,7 @@ public function behaviors()
 * Add action in the controller, for example:
 
 ```php
-use himiklab\sortablegrid\SortableGridAction;
+use naduvko\sortablegrid\SortableGridAction;
 
 public function actions()
 {
